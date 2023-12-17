@@ -1,10 +1,11 @@
 # Frog Leap Game in Python
 Welcome to the Frog Leap Game, a whimsical Python implementation of the classic puzzle game! 
 
-# Objective: Switch the positions of the green and brown frogs to win the game.
+# Objective: 
+Switch the positions of the green and brown frogs to win the game.
 
 # Problem statement
-Create famous 'Frog leap' puzzle game. Try completing the game before starting to get an idea about its working.
+Create a famous 'Frog leap' puzzle game.
 [Demonstration](https://www.neok12.com/games/leap-froggies/leap-froggies.htm).
 
 # How to Play
